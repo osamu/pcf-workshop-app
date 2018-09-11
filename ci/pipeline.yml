@@ -12,7 +12,7 @@ resources:
       api: api.sys.pcflab.jp
       username: student-1 
       password: mN2pbLPK 
-      organization: handson-1
+      organization: handson-student-1
       space: development
       skip_cert_check: true
 jobs:
